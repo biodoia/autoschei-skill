@@ -1,5 +1,5 @@
 ---
-name: autoschei
+name: autoschei-skill
 description: Biodoia Autoschei Ecosystem - Autonomous AI-powered development platform with 25+ Go modules. Use when working with multi-agent orchestration (GoBro, GOLEM), code generation/review (gociccidai, goaiaiai), project management (progotti, ideaeater), memory systems (memogo, cipher), Git operations (ghrego), deploy pipelines (govai), CLI tools (gommander, cligolist), or TUI dashboards (framegotui, auto-claude-go). Triggers on autoschei, biodoia, go modules, multi-agent, autonomous development, code review pipeline.
 license: Apache-2.0
 compatibility: Requires Go 1.21+, git, and access to /home/lisergico25/repos/
